@@ -1,3 +1,4 @@
+//simphson 1/3 rule
 #include<stdio.h>
 
 float input(float x) {
