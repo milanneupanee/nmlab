@@ -1,4 +1,4 @@
-//3/8
+//Simpson 3/8 rule
 #include<stdio.h>
 
 float input(float x) {
